@@ -1,4 +1,4 @@
-# Hi, I'm Monir 👋
+# Hi, I'm Ahmed Monir 👋
 
 Data Science Student @ The American University in Cairo · Exchange @ University of Helsinki · Machine Learning · Business Intelligence · AR/VR Development
 
@@ -16,7 +16,7 @@ Data Science Student @ The American University in Cairo · Exchange @ University
 
 ## Tech Stack
 
-**Languages:** Python · R · SQL · C++
+**Languages:** Python · R · SQL · C++ · C# 
 
 **Data Science & ML:** Pandas · NumPy · Scikit-learn · PyTorch · Jupyter Notebook
 
@@ -24,7 +24,7 @@ Data Science Student @ The American University in Cairo · Exchange @ University
 
 **AI / CV / NLP:** RAG · NLP · Computer Vision · OpenCV · TF-IDF · Linear SVM
 
-**Tools:** Git · GitHub · Flask · CI/CD
+**Tools:** Git · GitHub · Flask · CI/CD · Unity · Microsoft Hololens 2
 
 ---
 
@@ -34,12 +34,13 @@ Data Science Student @ The American University in Cairo · Exchange @ University
 | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
 | [AI vs Human Text Detector](https://github.com/3-bhd/AI-vs-Human-Text-Detector)                      | Real-time text classifier that predicts whether text is AI-generated or human-written using TF-IDF features, stylistic features, and a Linear SVM model. Includes Flask API, GUI, CLI client, feedback collection, and automated retraining. | Python, Flask, NLP, Scikit-learn, SVM, CI/CD |
 | [Sudoku Solver CV](https://github.com/3-bhd/Sudoku-Solver-CV)                                        | End-to-end computer vision pipeline that detects, extracts, and solves Sudoku puzzles from real-world images. Handles lighting issues, shadows, rotated grids, and different handwriting styles.                                             | Python, OpenCV, NumPy, Computer Vision       |
-| [RAG Superstore](https://github.com/MonirCSauc/RAG_Superstore)                                       | Retrieval-Augmented Generation project using a Superstore dataset to answer business-related questions from data.                                                                                                                            | Python, RAG, Data Analysis, AI Applications  |
+| [RAG Superstore](https://github.com/MonirCSauc/RAG_Superstore)                                       | Retrieval-Augmented Generation project using a Superstore dataset to answer business-related questions from data.                                                                                                                            | Python, RAG, Data Analysis, AI Applications, Ollama  |
+| [Book Detection](https://github.com/MonirCSauc/Book_detection)                                       | Ongoing mixed-reality project for Microsoft HoloLens 2, developed with Unity to visualize and present rare books from the AUC Library through an interactive AR experience.                                                                                                                                   | Unity, C#, Microsoft HoloLens 2, AR/Mixed Reality   |
 | [Diabetes Risk Regression Analysis](https://github.com/MonirCSauc/Diabetes-Risk-Regression-Analysis) | Regression analysis project focused on predicting diabetes risk using statistical modeling, diagnostics, and data preprocessing.                                                                                                             | R, Regression, Statistical Analysis          |
 | [Gym Data Analysis](https://github.com/MonirCSauc/GYM_data_analysis)                                 | Exploratory data analysis project studying gym user behavior, trends, and useful insights through Python-based analysis.                                                                                                                     | Python, Pandas, Matplotlib, EDA              |
 | [Classification Project](https://github.com/MonirCSauc/Classification)                               | Machine learning project focused on classification modeling, data preprocessing, model training, and evaluation.                                                                                                                             | Machine Learning, Classification             |
-| [Clustering Project](https://github.com/MonirCSauc/Clustering)                                       | Unsupervised learning project applying clustering techniques to discover patterns and group similar data points.                                                                                                                             | Machine Learning, Clustering                 |
-| [Book Detection](https://github.com/MonirCSauc/Book_detection)                                       | Computer vision project focused on detecting books using image-processing or object-detection techniques.                                                                                                                                    | Python, Computer Vision, Image Processing    |
+| [Clustering Project](https://github.com/MonirCSauc/Clustering)                                       | Unsupervised learning project applying clustering techniques to discover patterns and group similar data points.                                                                                                                             | Machine Learning, Clustering                
+
 
 ---
 
