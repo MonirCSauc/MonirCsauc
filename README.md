@@ -1,38 +1,49 @@
 # Hi, I'm Monir 👋
 
-I'm a Data Science student interested in Data Analytics, Machine Learning, Business Intelligence, and AI-powered applications.
+Data Science Student @ The American University in Cairo · Exchange @ University of Helsinki · Machine Learning · Business Intelligence · AR/VR Development
 
-I enjoy working with data to solve real problems, build predictive models, create dashboards, and turn raw datasets into useful insights.
+---
 
-## 🔍 Areas of Interest
-- Data Analysis
-- Machine Learning
-- Business Intelligence
-- Data Visualization
-- Regression, Classification, and Clustering
-- RAG and AI Applications
-- AR/VR developement
+## About Me
 
-## 🛠️ Tools & Technologies
-**Languages:** Python, R, SQL, C++  
-**Data Science:** Pandas, NumPy, Scikit-learn, Pytorch, Jupyter Notebook  
-**Visualization:** Matplotlib, Seaborn, Power BI, Tableau  
-**Other Tools:** Git, GitHub, Excel
+* 🎓 Data Science student at **The American University in Cairo**
+* 📊 Interested in **Data Analytics, Machine Learning, Deep Learning, and Business Intelligence**
+* 🤖 Building projects in **NLP, Deep Learning, Computer Vision, RAG, and AI-powered applications**
+* 🥽 Also interested in **AR/VR development**
+* 🚀 Always learning and building practical data-driven projects
 
-## 📌 Featured Projects
+---
 
-### RAG Superstore
-A Retrieval-Augmented Generation project using a Superstore dataset to answer business-related questions from data.
+## Tech Stack
 
-### Diabetes Risk Regression Analysis
-A regression analysis project focused on predicting diabetes risk using statistical modeling, diagnostics, and data preprocessing.
+**Languages:** Python · R · SQL · C++
 
-### Power BI & Tableau Project
-A business intelligence dashboard project using Power BI and Tableau to analyze and visualize life expectancy data.
+**Data Science & ML:** Pandas · NumPy · Scikit-learn · PyTorch · Jupyter Notebook
 
-### Gym Data Analysis
-A data analysis project exploring gym user behavior, trends, and useful insights through Python-based analysis.
+**Visualization & BI:** Matplotlib · Seaborn · Power BI · Tableau · Excel
 
-## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/ahmed-monir-249217267/
-- Email: ahmedmonir@aucegypt.edu
+**AI / CV / NLP:** RAG · NLP · Computer Vision · OpenCV · TF-IDF · Linear SVM
+
+**Tools:** Git · GitHub · Flask · CI/CD
+
+---
+
+## Projects
+
+| Project                                                                                              | Description                                                                                                                                                                                                                                  | Stack                                        |
+| ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| [AI vs Human Text Detector](https://github.com/3-bhd/AI-vs-Human-Text-Detector)                      | Real-time text classifier that predicts whether text is AI-generated or human-written using TF-IDF features, stylistic features, and a Linear SVM model. Includes Flask API, GUI, CLI client, feedback collection, and automated retraining. | Python, Flask, NLP, Scikit-learn, SVM, CI/CD |
+| [Sudoku Solver CV](https://github.com/3-bhd/Sudoku-Solver-CV)                                        | End-to-end computer vision pipeline that detects, extracts, and solves Sudoku puzzles from real-world images. Handles lighting issues, shadows, rotated grids, and different handwriting styles.                                             | Python, OpenCV, NumPy, Computer Vision       |
+| [RAG Superstore](https://github.com/MonirCSauc/RAG_Superstore)                                       | Retrieval-Augmented Generation project using a Superstore dataset to answer business-related questions from data.                                                                                                                            | Python, RAG, Data Analysis, AI Applications  |
+| [Diabetes Risk Regression Analysis](https://github.com/MonirCSauc/Diabetes-Risk-Regression-Analysis) | Regression analysis project focused on predicting diabetes risk using statistical modeling, diagnostics, and data preprocessing.                                                                                                             | R, Regression, Statistical Analysis          |
+| [Gym Data Analysis](https://github.com/MonirCSauc/GYM_data_analysis)                                 | Exploratory data analysis project studying gym user behavior, trends, and useful insights through Python-based analysis.                                                                                                                     | Python, Pandas, Matplotlib, EDA              |
+| [Classification Project](https://github.com/MonirCSauc/Classification)                               | Machine learning project focused on classification modeling, data preprocessing, model training, and evaluation.                                                                                                                             | Machine Learning, Classification             |
+| [Clustering Project](https://github.com/MonirCSauc/Clustering)                                       | Unsupervised learning project applying clustering techniques to discover patterns and group similar data points.                                                                                                                             | Machine Learning, Clustering                 |
+| [Book Detection](https://github.com/MonirCSauc/Book_detection)                                       | Computer vision project focused on detecting books using image-processing or object-detection techniques.                                                                                                                                    | Python, Computer Vision, Image Processing    |
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Monir-blue?style=flat\&logo=linkedin)](https://www.linkedin.com/in/ahmed-monir-249217267/)
+[![Email](https://img.shields.io/badge/Email-ahmedmonir%40aucegypt.edu-red?style=flat\&logo=gmail)](mailto:ahmedmonir@aucegypt.edu)
